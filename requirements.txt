@@ -1,5 +1,4 @@
 requests
-calendar
 bs4
 mechanize
 
